@@ -1,0 +1,442 @@
+.App .timeline-wrapper{
+    width: 75%;
+    margin: 0 auto;
+}
+
+
+.App .timeline-wrapper .MuiTimeline-root{
+    position: relative;
+    width: min-content;
+}
+
+.App  .card-wrapper{
+    display: flex;
+    justify-Content: space-evenly;
+    align-items: center;
+}
+
+.App .timeline-wrapper .card-wrapper .paper-container{
+    width: 100px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+
+.App .timeline-wrapper .card-wrapper{
+    cursor: pointer;
+    
+}
+
+.App .timeline-wrapper .timeline-title{
+    text-indent: 2.5%;
+}
+
+.App .timeline-wrapper .card-wrapper img{
+    max-width: 100%; /* Ensure the image does not exceed the container width */
+    max-height: 100%; /* Ensure the image does not exceed the container height */
+    object-fit: contain; 
+}
+
+.App .timeline-wrapper .dash-title{
+    position: relative;
+    top: 20px;
+}
+
+
+.App .MuiModal-root  ul {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    height: fit-content;
+    position: relative;
+    top: 15px;
+    align-items: center;
+}
+
+.App .MuiModal-root .MuiBox-root div .revoke-btn{
+    background-color: #5a04bd;
+}
+
+.App .timeline-wrapper .MuiPaper-root{
+        width: 600px;
+        height: 150px;
+}
+
+@media screen and (max-width: 1400px){
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 440px;
+        height: 150px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiCardMedia-root{
+        width: 130px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 130px;
+    }
+}
+
+@media screen and (max-width: 1300px){
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 380px;
+        height: 150px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiCardMedia-root{
+        width: 130px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 130px;
+    }
+}
+
+@media screen and (max-width: 1160px){
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 330px;
+        height: 150px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiCardMedia-root{
+        width: 130px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 130px;
+    }
+}
+
+@media screen and (max-width: 1050px){
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 310px;
+        height: 150px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiCardMedia-root{
+        width: 110px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 130px;
+    }
+
+    .App .timeline-wrapper  .title{
+        position: relative;
+        top: -15px;
+        font-size: 18px;
+    }
+
+    .App .timeline-wrapper .subtitle{
+        position: relative;
+        top: -14px;
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 990px){
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 270px;
+        height: 150px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiCardMedia-root{
+        width: 110px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 130px;
+    }
+}
+
+@media screen and (max-width: 900px){
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 230px;
+        height: 150px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiCardMedia-root{
+        width: 100px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 110px;
+    }
+
+    .App .timeline-wrapper  .title{
+        position: relative;
+        top: -15px;
+        font-size: 14px;
+    }
+
+    .App .timeline-wrapper .subtitle{
+        position: relative;
+        top: -10px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 800px){
+    .App .timeline-wrapper{
+        width: 95%;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 240px;
+        height: 100px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiCardMedia-root{
+        width: 80px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 110px;
+    }
+
+    .App .timeline-wrapper  .title{
+        position: relative;
+        top: -15px;
+        font-size: 13px;
+    }
+
+    .App .timeline-wrapper .subtitle{
+        position: relative;
+        top: -10px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 730px){
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 200px;
+        height: 100px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiCardMedia-root{
+        width: 80px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 110px;
+    }
+
+    .App .timeline-wrapper  .title{
+        position: relative;
+        top: -15px;
+        font-size: 13px;
+    }
+
+    .App .timeline-wrapper .subtitle{
+        position: relative;
+        top: -10px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 730px){
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 200px;
+        height: 100px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiCardMedia-root{
+        width: 80px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 85px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root .arrow-right{
+        width: 40px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root > .MuiTypography-root {
+        font-size: 13px;
+    }
+
+
+    .App .timeline-wrapper  .title{
+        position: relative;
+        top: -15px;
+        font-size: 13px;
+    }
+
+    .App .timeline-wrapper .subtitle{
+        position: relative;
+        top: -10px;
+        font-size: 12px;
+    }
+}
+
+
+@media screen and (max-width: 630px){
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 180px;
+        height: 100px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiCardMedia-root{
+        width: 65px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 70px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root .arrow-right{
+        width: 30px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root > .MuiTypography-root {
+        font-size: 11px;
+    }
+
+
+    .App .timeline-wrapper  .title{
+        position: relative;
+        top: -15px;
+        font-size: 12px;
+    }
+
+    .App .timeline-wrapper .subtitle{
+        position: relative;
+        top: -10px;
+        font-size: 11px;
+    }
+}
+
+@media screen and (max-width: 570px){
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 160px;
+        height: 100px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiCardMedia-root{
+        width: 100%;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 70px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root .arrow-right{
+        width: 30px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root > .MuiTypography-root {
+        font-size: 11px;
+    }
+
+
+    .App .timeline-wrapper  .title{
+        display: none;
+    }
+
+    .App .timeline-wrapper .subtitle{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 570px){
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 150px;
+        height: 100px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 70px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root .arrow-right{
+        width: 30px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root > .MuiTypography-root {
+        font-size: 11px;
+    }
+    
+}
+
+@media screen and (max-width: 500px){
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 120px;
+        height: 100px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 70px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root .arrow-right{
+        width: 30px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root > .MuiTypography-root {
+        font-size: 11px;
+    }
+    
+}
+
+@media screen and (max-width: 430px){
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 115px;
+        height: 100px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 70px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root .arrow-right{
+        width: 30px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root > .MuiTypography-root {
+        font-size: 11px;
+    }
+    
+}
+
+@media screen and (max-width: 430px){
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 95px;
+        height: 100px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 70px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root .arrow-right{
+        width: 30px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root > .MuiTypography-root {
+        font-size: 11px;
+    }
+    
+}
+
+@media screen and (max-width: 430px){
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root{
+        width: 75px;
+        height: 55px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .paper-container{
+        width: 70px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root .arrow-right{
+        width: 30px;
+    }
+
+    .App .timeline-wrapper .MuiTimeline-root .MuiPaper-root > .MuiTypography-root {
+        font-size: 11px;
+    }
+    
+}

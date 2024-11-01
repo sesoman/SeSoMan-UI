@@ -1,0 +1,70 @@
+.login-wrapper{
+    margin: 0 auto;
+    position: relative;
+    top: 35px;
+    max-width: 75%;
+}
+
+.login-wrapper .hint-section .q-mark{
+    position: relative;
+    top: 90px; 
+}
+
+.hint-section{
+    position: relative;
+    top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.btn-container{
+    position: relative;
+    top: 105px;
+}
+.btn-container Button{
+    margin-right: 10px;
+}
+
+.btn-container .yes-btn{
+    background-color: #5a04bd;
+}
+
+.btn-container .yes-btn:hover{
+    background-color: #5a04bd;
+}
+
+.btn-container .no-btn{
+    color: #5a04bd;
+    border-color: #5a04bd;
+}
+
+.btn-container .no-btn:hover{
+    color: #5a04bd;
+    border-color: #5a04bd;
+}
+
+.login-wrapper .service_logo{
+    position: relative;
+    top: 40px;
+    width: 25%;
+    left: 30%;
+    
+}
+
+@media screen and (max-width: 1070px) {
+    .btn-container Button{
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .btn-container{
+        display: flex;
+        flex-direction: column;
+    }
+    .login-wrapper .service_logo{
+        width: 45%;
+    }
+
+
+}

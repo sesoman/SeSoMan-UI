@@ -1,0 +1,140 @@
+.info {
+    margin: 0 auto;
+    position: relative;
+    top: 45px;
+    max-width: 75%;
+}
+
+
+.info .transfer-btn{
+    position: relative;
+    top: 130px;
+    background-color: #5a04bd;
+}
+
+.info .transfer-btn:hover{
+    background-color: #5a04bd;
+}
+
+.info .data-wrapper{
+    position: relative;
+    top: 50px;
+}
+
+.info .data-wrapper .section-2{
+    position: relative;
+    top: 40px;
+}
+
+.info .data-wrapper .section-1 .basic-data {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    height: fit-content;
+    position: relative;
+    top: 15px;
+    align-items: center;
+}
+
+.info .data-wrapper .section-2 .grades {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    height: fit-content;
+    position: relative;
+    top: 15px;
+    align-items: center;
+}
+
+.info .data-wrapper .section-1 .checkbox > .MuiTypography-root{
+    font-size: 14px;
+}
+
+.info .data-wrapper .section-2 .checkbox > .MuiTypography-root{
+    font-size: 14px;
+}
+
+.info .img_logo{
+    width: 25%;
+}
+
+.info .img-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    top: 20px;
+}
+
+.info .title-match{
+    font-size: 16px;
+    position: relative;
+    top: 15px;
+}
+
+.info .share-hint{
+    position: relative;
+    top: 25px;
+}
+
+.info .img-container .arrow-right{
+    
+
+}
+
+
+@media screen and (max-width: 1070px) {
+    .data{
+        display: block;
+    }
+
+    .info .MuiFormControl-root{
+        width: 100%;
+    }
+
+    .info .transfer-btn{
+        margin-left: 0px;
+        width: 100%;
+    }
+
+    .info .data-wrapper{
+        display: block;
+    }
+
+    .info .data-wrapper .section-1{
+        position: relative;
+    }
+
+    .info .data-wrapper .section-2{
+        top: 35px;
+        left: 0;
+    }
+
+    .info .img-container .arrow-right{
+        font-size: 80px;
+    }
+
+    .info .transfer-btn{
+        position: relative;
+        top: 120px;
+    }
+
+    .MuiModal-root .MuiBox-root{
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .info .img-container .arrow-right{
+        font-size: 50px;
+    }
+
+    .info .data-wrapper .section-1 .basic-data{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .info .data-wrapper .section-2 .grades{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}

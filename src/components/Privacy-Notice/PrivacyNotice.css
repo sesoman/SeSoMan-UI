@@ -1,0 +1,76 @@
+.App .privacy-struct{
+    margin: 0 auto;
+    padding-top: 15px;
+    border-radius: 3px;
+    width: 75%;
+    position: relative;
+    top: 35px;
+}
+
+.App .privacy-struct .html-description{
+    font-size: 15px;
+}
+
+.privacy-struct .info-msg{
+    margin-top: 10px;
+}
+
+.privacy-struct .info-topics{
+    margin-top: 15px;
+}
+
+.privacy-struct .info-topics .item{
+    margin-top: 5px;
+    padding: 5px;
+}
+
+.privacy-struct .info-topics .item .divider{
+    padding-bottom: 10px;
+}
+
+.privacy-struct .btn-wrapper{
+    margin-top: 25px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.privacy-struct .btn-wrapper Button {
+   margin-right: 10px;
+}
+
+.privacy-struct .btn-wrapper .accept-btn{
+    background-color: #5a04bd;
+}
+
+.privacy-struct .btn-wrapper .decline-btn{
+    color: #5a04bd;
+    border-color: #5a04bd;
+}
+
+.privacy-struct .btn-wrapper .accept-btn:hover{
+    background-color: #5a04bd;
+}
+
+.privacy-struct .btn-wrapper .decline-btn:hover{
+    color: #5a04bd;
+    border-color: #5a04bd;
+}
+
+.privacy-struct .MuiAccordion-root{
+    background-color: #f1edf5;
+    margin: 2px;
+}
+.privacy-struct .acc-text{
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.privacy-struct .MuiAvatar-root{
+    background-color: white;
+}
+
+.privacy-struct .MuiAccordionDetails-root{
+    font-size: 15px;
+}
