@@ -1,20 +1,18 @@
 {
   "files": {
-    "main.css": "/SeSoMan-UI/static/css/main.c545d371.css",
-    "main.js": "/SeSoMan-UI/static/js/main.52291b95.js",
+    "main.css": "/SeSoMan-UI/static/css/main.64eed944.css",
+    "main.js": "/SeSoMan-UI/static/js/main.ba249e21.js",
     "static/js/511.b75d561e.chunk.js": "/SeSoMan-UI/static/js/511.b75d561e.chunk.js",
-    "static/media/OpenTeach.png": "/SeSoMan-UI/static/media/OpenTeach.45db5a37d7d8a629ce20.png",
     "static/media/SchuelerkarriereLogo.jpg": "/SeSoMan-UI/static/media/SchuelerkarriereLogo.88c3f7063ebf5a41cad5.jpg",
-    "static/media/IMC.png": "/SeSoMan-UI/static/media/IMC.50c3fc8067f886ed3bf8.png",
     "static/media/sokrates.png": "/SeSoMan-UI/static/media/sokrates.bcbd0cd3183bc2da3836.png",
     "static/media/AWSi.svg": "/SeSoMan-UI/static/media/AWSi.befad1f50ae69737d5aa688758ea5fbc.svg",
     "index.html": "/SeSoMan-UI/index.html",
-    "main.c545d371.css.map": "/SeSoMan-UI/static/css/main.c545d371.css.map",
-    "main.52291b95.js.map": "/SeSoMan-UI/static/js/main.52291b95.js.map",
+    "main.64eed944.css.map": "/SeSoMan-UI/static/css/main.64eed944.css.map",
+    "main.ba249e21.js.map": "/SeSoMan-UI/static/js/main.ba249e21.js.map",
     "511.b75d561e.chunk.js.map": "/SeSoMan-UI/static/js/511.b75d561e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c545d371.css",
-    "static/js/main.52291b95.js"
+    "static/css/main.64eed944.css",
+    "static/js/main.ba249e21.js"
   ]
 }
