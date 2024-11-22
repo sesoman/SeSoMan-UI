@@ -1,0 +1,150 @@
+{
+   "karriereassitant": [
+    "<div>The Karriereassistent helps you in finding your dream job, shows you various career paths how to get there and suports you to reach your goals.</div><p></p><div> We prioritize the protection of your personal data in accordance with the General Data Protection Regulation (GDPR). We collect information to ensure personalized and efficient service delivery, tailoring our offerings to meet your specific needs. This data enables us to enhance your experience, improve our products and services, and provide relevant updates</div>",
+    "<div>The controller pursuant to Art. 4 (7) of the EU General Data Protection Regulation (GDPR) is Schülerkarriere GmbH, Siebstraße 1, 30171 Hannover, Germany, e-mail: kontakt@schuelerkarriere.de. We are legally represented by Thomas Hoppe.</div>",
+    "<div>In order to use the Karriereassistent entirely and get personal recommendations, you must first register or use your SeSoMan account. You may only register on the learning platform or create a user account if you have reached the age of XXX.</div><p></p><div>In case you register manually, we require your name and email-address. Before using Karriereassistent you must carefully read and accept this privacy notice (by pressing the button below).</div><p></p> <div>If you are using Karriereassistent as an additional service from another platform, you have the possibility to import/allow KA to read selected personal data once. This includes the following basic information:<div><ul><li>name</li><li>address </li><li>e-mail </li><li>school </li><li>nationality </li><li>language </li><li>birth date </li><li> or private data like selected grades.</li></ul><div>The import facilitates your work with Karriereassistent and pre-fills the respective information in your profile or CV creation form. You can also insert your information manually and reduce it to a minimum of required data. However, recommendations will be more precise and suitable for you if you reveal your individual preferences or skills.</div>",
+    "<div>Karriereassistent only collects your information when you give read access to selected information or after entering the information in the CV form.</div>",
+    "<div>Your information is collected in the moment you share it with Karriereassistent in the background.",
+    "<div>Your information is used as is to pre-fill your profile, the CV form or your application form. It is combined with other statistical data when you get recommendations for your career path.",
+    "<div>Your information is stored on servers located in Frankfurt, Germany. ",
+    "<div>Your personal information is protected against unauthorized access or disclosure. However, we might need to share some of your information with:</div><p></p><div>Hochschule Karlsruhe, if you want to get recommendations.</div><p></p><div>Third parties, if you use your SeSoMan account to use their services and give us your consent to do so.</div><p></p><div>Companies we engage to provide services like hosting our website or payment processing. These companies might see or work with your information but can't use it for their own purposes.</div><p></p><div>Sometimes, we might share your information with others if a court, government, or law tells us to. For example, we might give information to the police if they need it to investigate a crime, or we might use it in court if we need to protect our rights. If there's an emergency, we might need to share your information with the right people to help.</div>",
+    "<div>Your data is retained only for as long as necessary to fulfill the contract for services with you. In some cases, a longer retention period is required or permitted by law to which we are subject.</div>",
+    "<div>You can see your main personal information (e.g. name, birth date, address, phone number and email) in your Karriereassistent profile. There you can download your personal information, change or delete it</div>",
+    "<div>You can revoke your consent in your consent manager or remove your data by deleting your account in the Karriereassistent.</div>",
+    "<div>Our data protection officer can be contacted via heyData GmbH, Schützenstraße 5, 10117 Berlin, www.heydata.eu, e-mail: datenschutz@heydata.eu.</div>",
+    "<div>As required by Article 6 of the General Data Protection Regulation (GDPR), we are committed to providing transparency regarding the legal basis upon which we rely for processing personal data. Our primary legal bases for processing personal data include consent, contract fulfillment, legal obligations, vital interests, the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller, and legitimate interests pursued by the data controller or a third party.</div>",
+    "<div>?!</div>",
+    "<div>https://dev.karriereassistent.schuelerkarriere.de/page/internal/privacy-policy</div>"
+  ],
+  
+    "awsi": [
+      "<div>We process personal data entered on the basis of a legitimate interest (Art. 6 para. 1 sentence 1 lit. f GDPR) for the following purposes:</div><div><p></p><div>Recognition of input and for automatic evaluation by the training assistant and issuing recommendations based on the provided information. The training assistant creates a skills profile on the basis of a questionnaire to be answered by the user. In addition, as part of an AI-supported search function, the user's entries in the search field are analysed using large language models and compared with the existing course catalog in order to create recommendations for personalized courses, further trainings, and learning paths. In addition, further personal data can be added and included in the recommendation, such as courses already completed and certificates obtained.</div><p></p><div>First, users must register by creating an account to use the training assistant. Therefore, a user name and a valid e-mail address are required. In order to use the full range of functions of the training assistant, the personal account can be linked to the Self Sovereignty Manager (hereinafter referred to as SeSoMan). SeSoMan is a decentralized data repository through which user data can be transferred and used across various educational services. Before the account can be linked to SeSoMan, you must read this data protection notice carefully and accept it by clicking on the button below.</div><p></p><div>If you use the training assistant as an additional service from another platform, you have the option to import selected personal data or give reading permissions to the training assistant. This includes the following basic information:</div><div><ul><li>Details of already completed courses and obtained certificates</li></ul></div><p></p><div>The import of data improves the use of the training assistant and fills your user profile with relevant information. The more data you disclose, the more precise and appropriate the generated recommendations will be for you.</div>",
+      "<div>Controller within the meaning of Art. 4 No. 7 GDPR is:</div><p></p><div>August-Wilhelm Scheer Institute for Digital Products and Processes gGmbH</div><p></p><div>Uni Campus Nord D 5 1</div><p></p><div>66123 Saarbrücken</div>",
+      "<p>Even if processing of personal data is not intended, your personal data may still be processed in individual cases, depending on whether your input contains personal data.</p><p>The following personal data is collected by default when registering a user account:</p><ul><li><strong>User name:</strong> A freely selectable name that serves to identify the account.</li><li><strong>E-mail address:</strong> To verify the account and for communication in connection with the use of the training assistant.</li></ul><p>This data is required to provide access to the training assistant and to ensure basic functions. The e-mail address will not be used for other purposes and will not be passed on to third parties without the user's consent.</p><p>The training assistant allows users to enter information manually, for example when creating a skill profile or using the search function. In this context, users may inadvertently enter personal data, such as:</p><ul><li>Full name or other personal identifiers in free text fields.</li><li>Information about their profession or employer.</li><li>Sensitive data that allows conclusions to be drawn about the person or their environment.</li></ul><p>To minimize this risk, users are advised not to enter any sensitive or personal data in free text fields unless this is explicitly required.</p><p>The training assistant itself does not collect or process any personal data. The user has the option of preventing the initial processing of personal data by not entering private information.</p>",
+      "<p>Potentially, the input can contain all the data categories you have entered. In particular, the following categories are likely to appear:</p><ul><li><strong>Personal master data:</strong> e.g., last name, first name</li><li><strong>Contact details:</strong> e.g., e-mail address</li><li><strong>Information about your profession/your company:</strong> e.g., industry, employment, employer, position, title, department, company address</li></ul><p>The use of the training assistant does not require the entry or other processing of personal data.</p>",
+      "<p>Personal data is collected exclusively through the explicit entry of user data by the user when using the training assistant. Personal data can be collected at any time if the user enters personal data and uses the functions of the training assistant.</p>",
+      "<p>When using the training assistant, there are no procedures for the fully automated collection of data in the background in accordance with Art. 22 GDPR.</p>",
+      "<p>The collected data is used to analyze and provide personalized course and further education offers. Based on the user's skills profile, previous learning content and acquired certificates, the training assistant generates recommendations that are specifically tailored to individual learning needs. The analysis is carried out using an AI-supported model that evaluates the user's input and compares it with existing course offerings. The personalized recommendations are provided exclusively within the assistant in order to protect the user's privacy.</p>",
+      "<p>Data (e.g. skills profile, information about completed courses and acquired certificates) is stored via the Microsoft Azure Cloud Service on servers within the European Union that are subject to EU data protection and compliance directives. Data is not processed outside the European Union (EU) or the European Economic Area (EEA), as we have limited our storage location to data centers in the European Union.</p>",
+      "<p>Your (personal) data is protected from unauthorized access or disclosure. However, some of your data may be shared with the following institutions:</p><ul><li><strong>Hasso Plattner Institute (HPI):</strong> In particular, data on already completed courses and obtained certificates on the digital learning platform openHPI.</li><li><strong>Third parties:</strong> If you use SeSoMan to access their services and give us your consent to share your data.</li><li><strong>Companies:</strong> That we engage to provide services such as hosting our website or processing payments. These companies may see or work with your data, but they cannot use it for their own purposes.</li></ul><p>It may be necessary to share your data if a court, authority or law requires us to do so. For example, it may be necessary to share information with the police if they need it to investigate a crime, or we may use it in court if we need to protect our rights.</p>",
+      "<p>Data (e.g. skills profile, information on completed courses and acquired certificates) is stored via the Microsoft Azure Cloud Service on servers within the European Union.</p><p>Data from account creation:</p><ul><li>Data collected during the account creation process (e.g. user name and email address) is stored as long as the user account remains active.</li><li>Users can view their data at any time via the profile settings of their account and make changes if necessary.</li><li>The complete deletion of the account, including all associated data, can be requested at any time. As soon as deletion has been requested, all personal data will be deleted from our systems immediately, provided there are no legal retention obligations to the contrary.</li></ul><p>Processing in the language model:</p><ul><li>In the training assistant, user data that is processed as part of the AI-supported search function is only used temporarily.</li><li>User input (e.g. search queries) is stored during active use of the language model in order to provide relevant and personalized recommendations.</li><li>As soon as active use ends (e.g. by ending the session or inactivity), the data entered is deleted from the language model.</li><li>There is no permanent storage or further processing of this data. The one-off processing serves exclusively to provide search results in real time.</li></ul><p>Storage of data in SeSoMan:</p><ul><li>If the user account is linked to the Self Sovereignty Manager (SeSoMan), the user's educational data, such as competence profiles, completed courses or acquired certificates, are stored decentrally in SeSoMan.</li><li>This data remains in SeSoMan until it is deleted by the user. The training assistant only has access to this data while the account is actively linked and only for the purpose of generating recommendations.</li><li>The user has full control over the data in SeSoMan at all times and can remove the link with the training assistant.</li></ul><p>Generated recommendations:</p><ul><li>The personalized recommendations generated by the language model or the AI-based analysis are only provided to the user during the session in the training assistant. These recommendations are not saved. They cannot be exported or accessed via other channels (e.g. email), which further protects the user's privacy.</li></ul>",
+      "<p>The personal data processed as part of the training assistant and SeSoMan are used exclusively for the following purposes:</p><ul><li>Creation of personalized continuing education and course offers.</li><li>Provision of a competence profile to support individual learning objectives.</li><li>Enabling data sovereign management and linking of educational data via SeSoMan.</li></ul><p>Further processing for other purposes does not take place. Neither the training assistant nor SeSoMan use data for their own purposes, but exclusively to support the learning needs defined by the user.</p><p>The processing of personal data is clear and comprehensible. All relevant information, such as the purpose of the processing, the type of data, the responsibilities and the storage locations of the data, is communicated to the user before the data is entered. In addition, users are given a data protection-friendly option to manage their data independently in SeSoMan.</p><p>We only process data that is absolutely necessary for the stated purposes:</p><ul><li>Only a user name and an e-mail address are required for registration in the training assistant.</li><li>Further data (e.g. on completed courses or learning objectives) is only processed if the user expressly enters it or imports it via SeSoMan.</li></ul><p>Sensitive data that is not required for functionality is neither collected nor processed. No further processing takes place.</p><p>The accuracy of the processed data is ensured by users themselves, as they provide and manage the entries themselves:</p><ul><li>In SeSoMan, users can check, update or delete their data at any time.</li><li>Incorrect or outdated data is not processed further in order to guarantee the quality and precision of the recommendations.</li></ul><p>The data is processed exclusively for the above-mentioned purpose. We do not use data for our own, independent purposes and ensure that the principles of purpose limitation and data economy are observed. In addition, the training assistant and SeSoMan do not process any data that is not required for functionality. This supports compliance with a data protection-friendly approach.</p>",
+      "<p>Users have the option of withdrawing their consent to the processing of their personal data at any time. Consent to data processing by the training assistant is initially given by accepting this privacy policy.</p><p>Consent can be withdrawn in writing to the data protection officer or via the profile settings of the user account, if this function is available. Without consent, no further processing of personal data will take place in the training assistant.</p>",
+      "<p>In case you believe that the processing of your personal data violates data protection law, you have the right to lodge a complaint with a data protection supervisory authority of your choice in accordance with Art. 77 (1) GDPR. This also includes the data protection supervisory authority responsible for the controller:</p><p>Independent Data Protection Center Saarland</p><p>Telephone: +49 681 94781 0</p><p>Fax: +49 681 94781 29</p><p>E-mail: poststelle@datenschutz.saarland.de</p>",
+      "<p>We process your personal data on the basis of the consent given to us in accordance with Art. 6 para. 1 sentence 1 lit. a GDPR and in individual cases if there is a legitimate interest in accordance with Art. 6 para. 1 sentence 1 lit. f GDPR.</p><p>You also have the right not to be subject to an exclusively automated decision in individual cases, Art. 22 GDPR.</p>",
+      "<p>You have various rights regarding the processing of your personal data within the framework of the respective regulations (in particular Art. 15-21 GDPR):</p><p>9. right to information, Art. 15 GDPR</p><p>10. right to authorization, Art. 16 GDPR</p><p>11. right to erasure, Art. 17 GDPR</p><p>12. right to restriction of processing, Art. 18 GDPR</p><p>13. right to data portability, Art. 20 GDPR</p><p>14. right of revocation, Art. 7 GDPR</p><p>15. right to object, Art. 21 GDPR</p><p>16. right to lodge a complaint with a competent data protection supervisory authority, Art. 77 GDPR</p>"
+    ],
+
+
+    "hpi":[
+        "<p>With openHPI, the Hasso Plattner Institute offers you the opportunity to take part in free online courses on a wide range of information technology (IT) topics. As a registered user, you can access the course content (videos, quizzes, reading material) and receive a certificate after successful completion of the final exam at the end of the course. In addition, the discussion forum and the learning groups are available for exchange between course participants and for questions.</p><p>When registering for our courses, the collection and storage of personal data is unavoidable. The protection of your data and its legally compliant collection, processing and use are of particular concern to us. We would therefore like to take this opportunity to inform you which data is collected when you visit this website and register for one or more of our courses. Furthermore, we would like to explain the purpose for which this data is collected and the extent to which it is used.</p><p>You can access this privacy policy on every page of our website by clicking on the “Data protection” link at the bottom of the page and print and/or save it using the functions of your browser.</p>",
+        "<p>Data controller. The data controller for openHPI (https://open.hpi.de and associated openHPI mobile apps) is the Hasso Plattner Institute for Digital Engineering gGmbH, Prof.-Dr.-Helmert-Str. 2-3, 14482 Potsdam, Germany (“HPI”), with its data protection officer Bernhard Rabe (datenschutz@hpi.de).</p>",
+        "<p>Collection and storage of personal data. HPI only stores your name and e-mail address as well as additional data in your user profile that you voluntarily provide, e.g. gender, date of birth, company or university, position, city, country, employment status, expertise in IT, highest educational qualification (your “personal data”).</p>",
+        "<p>openHPI only collects your information when you give read access to selected information or after entering the information in your profile. Moreover, your current progress within courses and contributions in forum and groups is stored to reflect your activities on the platform and facilitate collaboration with others.</p>",
+        "<p>Your information is collected in the moment you share it with openHPI in the background.</p>",
+        "<p>Your information is used as is for your profile, to display your current status within a course or to communicate with other users or groups. HPI requires your personal data to enable you to participate in openHPI courses in which you are interested. The provision of this personal data is completely voluntary. Unfortunately, it is not possible for us to guarantee you access to the courses without you providing at least your name and e-mail address. Your name and e-mail address will also appear on your personal certificates of achievement, i.e. the “confirmation of participation”, the “certificate” and the “qualified certificate”. Your date of birth will also appear here if you have entered it in your user profile. Your e-mail address will also be used for course-related communication and announcements of new courses and changes to the openHPI platform.</p>",
+        "<p>Your information is used as is for your profile, to display your current status within a course or to communicate with other users or groups.</p><p>HPI requires your personal data to enable you to participate in openHPI courses in which you are interested. The provision of this personal data is completely voluntary. Unfortunately, it is not possible for us to guarantee you access to the courses without you providing at least your name and e-mail address.</p><p>Your name and e-mail address will also appear on your personal certificates of achievement, i.e. the “confirmation of participation”, the “certificate” and the “qualified certificate”. Your date of birth will also appear here if you have entered it in your user profile.</p><p>Your e-mail address will also be used for course-related communication and announcements of new courses and changes to the openHPI platform.</p>",
+        "<p>Your information is stored in Potsdam, Germany.</p>",
+        "<p>HPI does not pass on any of your personal data to third parties.</p><p>Exceptions to this can be made with your consent. This includes the transfer of data about connected courses at openHPI to the career assistant of AWSI.</p><p>Then, data transfer takes place via SeSoMan and the data protection regulations of the SeSoMan software apply.</p><p>HPI does not transfer any of your personal data to countries outside the European Economic Area.</p>",
+        "<p>As long as you have an active user account on openHPI your data will be stored and, if applicable, for any additional period of time for which HPI is required by law to retain your personal data.</p>",
+        "<p>You can request information from HPI at any time about what personal data HPI has stored and processes about you. Please direct such requests to info@openhpi.de.</p>",
+        "<p>You can request the correction or deletion of your personal data at any time. In addition, the openHPI platform allows you to correct or delete your personal data yourself. Please note that HPI can only delete your personal data if there is no legal obligation or overriding right that requires HPI to retain this data. Please also note that deleting all your personal data will result in you no longer being able to use the openHPI platform.</p><p>Furthermore, you can request a copy of the personal data you have provided from HPI. In this case, please contact the e-mail address provided below and provide the information and the data processing operation for which you would like information. HPI will elaborate with you to determine the best way to resolve your request.</p><p>You can also request HPI to restrict access to your personal data for further processing. This applies in the following cases: (i) if you indicate that the personal data HPI holds about you is inaccurate (only if HPI is obliged to verify the accuracy of the relevant personal data), (ii) if HPI has no legal basis to process your personal data and you request that HPI restricts the processing of your personal data, (iii) if HPI no longer needs your personal data but you determine that HPI retains this data to enable you to exercise your rights or defend against legal claims by third parties, or (iv) if you object to HPI's processing of your personal data (based on HPI's legitimate interest as set out in Section B), for the time it takes to determine whether HPI has an overriding right or legal obligation to process your personal data.</p>",
+        "<p>All inquiries and complaints can be sent to info@openhpi.de.</p>",
+        "-",
+        "-"
+    ],
+  
+  
+   
+    "extra_fields": [{
+        "Data_Selection": {
+            "Stammdaten": [
+                "name",
+                "school",
+                "address",
+                "first_language",
+                "email",
+                "date-of-birth",
+                "citizenship"
+            ],
+            "Grades": [
+                "R",
+                "WERK",
+                "ME",
+                "S",
+                "BSP",
+                "E",
+                "D",
+                "VE",
+                "ROB",
+                "BE",
+                "M"
+            ]
+        },
+        "Calling_Service": "HPI academy",
+        "Target_Service": "AWSi",
+        "ProviderImage": "",
+        "ConsumerImage": "",
+        "ConsumerDesc": "Education and Certification",
+        "ProviderDesc": "Digital Research",
+        "Date": "April, Sunday 21, 2024 09:17"
+    },
+    {
+      "Data_Selection": {
+          "Stammdaten": [
+              "name",
+              "school",
+              "address",
+              "first_language",
+              "email",
+              "citizenship"
+          ],
+          "Grades": [
+              "R",
+              "WERK",
+              "ME",
+              "VE",
+              "ROB",
+              "BE",
+              "M"
+          ]
+      },
+      "Calling_Service": "Open Teach",
+      "Target_Service": "Lightcast",
+      "ProviderImage": "",
+      "ConsumerImage": "",
+      "ConsumerDesc": "Learning managament system",
+      "ProviderDesc": "Analytics System",
+      "Date": "April, Saturday 20, 2024 12:17"
+  },
+  {
+    "Data_Selection": {
+        "Stammdaten": [
+            "name",
+            "school",
+            "address",
+            "first_language",
+            "email",
+            "citizenship"
+        ],
+        "Grades": [
+            "R",
+            "WERK",
+            "ME",
+            "VE",
+            "ROB",
+            "BE",
+            "M"
+        ]
+    },
+    "Calling_Service": "IMC",
+    "Target_Service": "Headai",
+    "ProviderImage": "",
+    "ConsumerImage": "",
+    "ConsumerDesc": "E-Learning",
+    "ProviderDesc": "AI System",
+    "Date": "April, Friday 19, 2024 14:17"
+}
+  ]
+  
+}

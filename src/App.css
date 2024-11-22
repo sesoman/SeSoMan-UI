@@ -1,0 +1,37 @@
+.app-title{
+  color: white;
+  position: relative;
+  left: 13.5%;
+}
+
+.App div .fa-handshake{
+  position: relative;
+  left: 12.5%;
+}
+
+.App .title-wrapper{
+  background-color: #5a04bd;
+  display: flex;
+  width: 100%;
+}
+
+.App .MuiStepper-root{
+  position: relative;
+  top: 20px;
+  display: flex;
+  justify-content: center;;
+}
+
+.App{
+/* Dark gray */
+  min-height: 100vh;
+}
+
+
+.App .MuiStepper-root .MuiSvgIcon-root{
+  color: #5a04bd;
+}
+
+.MuiSwitch-input{
+  color: #5a04bd;
+}
